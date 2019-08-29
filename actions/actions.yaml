@@ -1,6 +1,6 @@
 ---
 name: greet
-pack: flow123
+pack: hello_st2
 runner_type: "local-shell-script"
 description: Greet StackStorm!
 enabled: true
