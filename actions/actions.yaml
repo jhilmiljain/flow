@@ -4,7 +4,7 @@ pack: hello_st2
 runner_type: "local-shell-script"
 description: Greet StackStorm!
 enabled: true
-entry_point: greet.sh
+entry_point: actions.py
 parameters:
     greeting:
         type: string
