@@ -1,5 +1,5 @@
 ---
-name: greet
+name: actions
 pack: flow123
 runner_type: "python-script"
 description: Greet StackStorm!
